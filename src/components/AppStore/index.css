@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.tabs-list {
+  display: flex;
+  list-style-type: none;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.app-list{
+  display: flex;
+  flex-wrap:wrap ;
+}
